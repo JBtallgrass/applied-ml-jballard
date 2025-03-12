@@ -21,6 +21,8 @@ Please don't hesitate to connect, collaborate, or contact me if our interests al
 
 # (Module 1) Applied Machine Learning Course  
 
+
+
 ---
 
 ## 📚 Table of Contents  
