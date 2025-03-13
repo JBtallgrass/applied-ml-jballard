@@ -1,7 +1,3 @@
-Here’s a refined **README.md** for your **ml-01** project with a professional and structured format:
-
----
-
 # **Machine Learning Project: Regression Analysis on Housing Prices**
 
 ## **Overview**
@@ -18,10 +14,6 @@ This project applies **regression modeling techniques** to a real-world dataset 
 ## **Dataset**
 We use the **California Housing Prices Dataset**, a built-in dataset from `scikit-learn`:
 
-```python
-from sklearn.datasets import fetch_california_housing
-```
-
 Additionally, alternative housing price datasets are available on **Kaggle**.
 
 ## **Technology Stack**
@@ -33,18 +25,6 @@ This project utilizes **Python** and essential **machine learning libraries**:
 - **Scikit-learn** – Machine learning library for regression modeling
 
 For more information, visit [Scikit-learn Documentation](https://scikit-learn.org/).
-
-## **Installation and Setup**
-To ensure a smooth setup, follow these **two installation steps** to avoid timeouts and partial installs:
-
-1. **First Install:** Install all dependencies except `scikit-learn` using `requirements.txt`:
-   ```sh
-   pip install -r requirements.txt
-   ```
-2. **Second Install:** Uncomment `scikit-learn` in `requirements.txt` and reinstall:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ### **Professional Python Development Workflow**
 We adhere to professional Python practices for development. Full instructions can be found at [pro-analytics-01](https://github.com/denisecase/pro-analytics-01/).
@@ -81,7 +61,7 @@ This project follows a structured approach in machine learning:
 ---
 
 ## **Project Files**
-- 📂 **`ml-01.ipynb`** – Jupyter Notebook with data exploration, model training, and evaluation.
+- 📂 **`applied-ml-jballard.ipynb`** – Jupyter Notebook with data exploration, model training, and evaluation.
 - 📄 **`requirements.txt`** – List of required Python libraries.
 - 📄 **`README.md`** – Project documentation (this file).
 - 📄 **`.gitignore`** – Ensures unnecessary files (e.g., `.venv`) are excluded from Git.
@@ -91,7 +71,7 @@ This project follows a structured approach in machine learning:
 ## **Running the Notebook Locally**
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/yourusername/ml-01.git
+git clone 
 cd ml-01
 ```
 
@@ -128,13 +108,9 @@ Open `ml-01.ipynb` and run the code.
 ## **Contributors**
 👤 **Jason Ballard**  
 📅 **March 12, 2025**  
-📌 **GitHub Profile:** [](
+📌 **GitHub Profile:** [Jason Ballard Git HUb Profile](https://github.com/JBtallgrass)
 
 ---
 
 ## **License**
-This project is open-source and available under the **MIT License**.
-
----
-
-Let me know if you'd like to personalize this further! 🚀
+This project is open-source
