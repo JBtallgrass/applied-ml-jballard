@@ -11,6 +11,10 @@ This project applies **regression modeling techniques** to a real-world dataset 
 - Compare different regression techniques.
 - Document your findings in a structured Jupyter Notebook.
 
+---
+## **Project findings**
+
+
 ## **Dataset**
 We use the **California Housing Prices Dataset**, a built-in dataset from `scikit-learn`:
 
