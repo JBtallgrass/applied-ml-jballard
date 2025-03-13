@@ -21,8 +21,6 @@ Please don't hesitate to connect, collaborate, or contact me if our interests al
 
 # (Module 1) Applied Machine Learning Course  
 
-
-
 ---
 
 ## 📚 Table of Contents  
@@ -38,8 +36,28 @@ Please don't hesitate to connect, collaborate, or contact me if our interests al
 ---
 
 ## 📌 Project Overview  
+### **U.S. Air Pollution Analysis (2000 - 2023)**  
 
-This repository serves as the foundation for applied machine learning projects. It provides a structured environment for machine learning experiments, ensuring reproducibility, organization, and adherence to best practices. Each lab project is self-contained within its designated folder.
+#### **Overview**  
+This repository serves as the foundation for applied machine learning projects, providing a structured environment for conducting experiments while ensuring **reproducibility, organization, and adherence to best practices**. Each lab project is self-contained within its designated folder, making it easy to explore, modify, and extend.  
+
+#### **Introduction**  
+Air pollution is a persistent environmental challenge affecting millions of people across the United States. Factors such as industrial activity, transportation, and natural disasters contribute to fluctuating levels of harmful pollutants in the air. This project leverages real-world pollution data from the **U.S. Environmental Protection Agency (EPA)** to analyze **trends in air quality from 2000 to 2023**.  
+
+By applying **data science and machine learning techniques**, this project will explore patterns and predictive models related to **four major air pollutants**:  
+- **Ozone (O₃)**  
+- **Carbon Monoxide (CO)**  
+- **Sulfur Dioxide (SO₂)**  
+- **Nitrogen Dioxide (NO₂)**  
+
+##### **Project Objectives**  
+✔ **Analyze air pollution trends** across different U.S. states and regions  
+✔ **Visualize data** using Python libraries such as Matplotlib and Seaborn  
+✔ **Develop machine learning models** to predict air quality trends  
+✔ **Identify correlations** between pollution levels and external factors such as population density, climate, and policy changes  
+
+##### **Why This Matters**  
+Understanding air pollution trends is essential for **policy-making, public health, and environmental sustainability**. This project provides a structured approach to data-driven decision-making, offering insights into how air quality has evolved over time and how it might change in the future.  
 
 ---
 
