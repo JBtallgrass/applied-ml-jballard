@@ -14,6 +14,9 @@ This project applies **regression modeling techniques** to a real-world dataset 
 ---
 ## **Project findings**
 
+The **Linear Regression model** using `MedInc` and `AveRooms` as predictors achieved an **R² score of 0.48**, explaining **48% of the variance** in house prices. The model's **Mean Absolute Error (MAE) of 0.62** and **Root Mean Squared Error (RMSE) of 0.83** indicate that predictions deviate significantly, with larger errors penalized more. The model **tends to overestimate lower-priced homes and underestimate higher-priced ones**, suggesting **missing key features, non-linearity in data, or the need for more advanced models**. 🚀
+
+---
 
 ## **Dataset**
 We use the **California Housing Prices Dataset**, a built-in dataset from `scikit-learn`:
