@@ -71,15 +71,14 @@ This project follows a structured approach in machine learning:
 ## **Running the Notebook Locally**
 ### **1. Clone the repository**
 ```sh
-git clone 
-cd ml-01
+git clone https://github.com/JBtallgrass/applied-ml-jballard.git
+cd applied-ml-jballard
 ```
 
 ### **2. Create and activate a virtual environment**
 ```sh
 python -m venv .venv
-source .venv/bin/activate  # For macOS/Linux
-# OR
+
 .venv\Scripts\activate  # For Windows
 ```
 
@@ -88,11 +87,10 @@ source .venv/bin/activate  # For macOS/Linux
 pip install -r requirements.txt
 ```
 
-### **4. Run Jupyter Notebook**
+### **4. Run Jupyter Notebook using VS Code**
 ```sh
-jupyter notebook
+code . 
 ```
-Open `ml-01.ipynb` and run the code.
 
 ---
 
