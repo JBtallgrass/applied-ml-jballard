@@ -1,0 +1,19 @@
+Model Type,Case,Features Used,Accuracy,Precision,Recall,F1-Score,Notes
+Decision Tree,Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+SVM (rbf),Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+SVM (linear),Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+SVM (poly),Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+SVM (sigmoid),Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+Neural Network (MLP),Case 1,alone,59.22%,47.37%,52.17%,49.66%,-
+Decision Tree,Case 2,age,62.01%,66.67%,2.90%,5.56%,-
+SVM (rbf),Case 2,age,60.89%,42.86%,4.35%,7.89%,-
+SVM (linear),Case 2,age,61.45%,0.00%,0.00%,0.00%,-
+SVM (poly),Case 2,age,61.45%,0.00%,0.00%,0.00%,-
+SVM (sigmoid),Case 2,age,55.31%,39.62%,30.43%,34.43%,-
+Neural Network (MLP),Case 2,age,60.89%,42.86%,4.35%,7.89%,-
+Decision Tree,Case 3,age + family_size,62.01%,50.72%,50.72%,50.72%,-
+SVM (rbf),Case 3,age + family_size,60.89%,42.86%,4.35%,7.89%,-
+SVM (linear),Case 3,age + family_size,61.45%,0.00%,0.00%,0.00%,-
+SVM (poly),Case 3,age + family_size,61.45%,0.00%,0.00%,0.00%,-
+SVM (sigmoid),Case 3,age + family_size,54.19%,38.60%,31.88%,34.92%,-
+Neural Network (MLP),Case 3,age + family_size,63.69%,60.00%,17.39%,26.97%,-
